@@ -1,0 +1,7 @@
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_radio_utils.c:38:6:DEMO_WaitForFreeChannel	4
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_radio_utils.c:76:20:DEMO_GetShaping	5
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_radio_utils.c:99:18:DEMO_GetRampUp	1
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_radio_utils.c:109:29:DEMO_GetSpreadingFactor	1
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_radio_utils.c:119:23:DEMO_GetBandwidth	10
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_radio_utils.c:151:24:DEMO_GetCoderate	1
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_radio_utils.c:161:20:DEMO_ConvertFSKBandwidth	22

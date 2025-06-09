@@ -1,0 +1,14 @@
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_utils.c:227:12:CheckLimits	3
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_utils.c:42:10:DEMO_TimeOnAirLora	2
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_utils.c:64:10:DEMO_TimeOnAirFsk	1
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_utils.c:76:10:DEMO_MaxPayloadLora	4
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_utils.c:105:10:DEMO_MaxPayloadFsk	4
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_utils.c:133:6:DEMO_DefaultCoding	2
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_utils.c:162:6:DEMO_IsCodingDefault	11
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_utils.c:188:10:DEMO_BandwidthLora	2
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_utils.c:198:10:DEMO_BandwidthFsk	4
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_utils.c:246:6:DEMO_ValidateCodingHdr	2
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_utils.c:260:6:DEMO_ValidateCodingLora	1
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_utils.c:271:6:DEMO_ValidateCodingFsk	1
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_utils.c:284:10:DEMO_CountFreeSlots	3
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Concentrator/Common/Src/demo_utils.c:300:10:DEMO_ChooseRandomSlot	6

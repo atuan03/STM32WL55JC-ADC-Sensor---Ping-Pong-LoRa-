@@ -1,0 +1,6 @@
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Sensor/Core/Src/main.c:222:13:LedsOff	8	static
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Sensor/Core/Src/main.c:236:13:LedBlink	8	static
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Sensor/Core/Src/main.c:210:13:WriteDataCallback	8	static
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Sensor/Core/Src/main.c:296:6:Error_Handler	0	static,ignoring_inline_asm
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Sensor/Core/Src/main.c:155:6:SystemClock_Config	112	static
+D:/SISLAB/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Demonstrations/LocalNetwork/LocalNetwork_Sensor/Core/Src/main.c:85:5:main	16	static
